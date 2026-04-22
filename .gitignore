@@ -1,6 +1,6 @@
 # Java and ImageJ plugin ignores
 *.class
-*.jar
+#*.jar
 *.zip
 *.log
 .DS_Store
