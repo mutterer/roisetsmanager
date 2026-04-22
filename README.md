@@ -1,7 +1,7 @@
 # ROI Sets Manager (ImageJ Plugin)
 
 ## Summary
-The ROI Sets Manager is an ImageJ plugin for managing hierarchical sets of ROIs (Regions of Interest). It provides a tree-based interface for organizing, saving, loading, and manipulating ROI groups, supporting parent-child relationships and custom properties for each ROI. The plugin is designed for advanced ROI workflows, batch operations, and macro automation.
+The ROI Sets Manager is an ImageJ plugin for managing hierarchical sets of ROIs (Regions of Interest). It works as a companion to the standard ImageJ RoiManager, providing a tree-based interface for organizing, saving, loading, and manipulating ROI groups, supporting parent-child relationships and custom properties for each ROI. The plugin is designed for advanced ROI workflows, batch operations, and macro automation.
 
 ### Key Features
 - Tree view for organizing ROIs in parent-child hierarchies
