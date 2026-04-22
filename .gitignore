@@ -1,0 +1,21 @@
+# Java and ImageJ plugin ignores
+*.class
+*.jar
+*.zip
+*.log
+.DS_Store
+.idea/
+.vscode/
+out/
+build/
+# OS generated files
+Thumbs.db
+# Eclipse/NetBeans/IntelliJ project files
+*.iml
+*.ipr
+*.iws
+*.swp
+*.bak
+*.tmp
+# Ignore user-specific config
+*.user
